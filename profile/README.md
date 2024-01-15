@@ -10,7 +10,7 @@ Este grupo tiene sus inicios con la comunidad de [Python en Español](https://ha
 
 ## ¿Qué ofrece este grupo de estudio?
 
-1. Reuniones semanales todos los viernes, esto para discutir, resolver dudas y apoyarnos con las tareas.
+1. Reuniones semanales todos los viernes, esto para discutir, resolver dudas y apoyarnos con las tareas. Puedes ver el calendario y la estructura de las sesiones [aquí](../../sesiones-estudio.md)
 1. Material de estudio `TODO: Agregar el repositorio del material de estudio`
 1. Una plantilla con un Codespace para trabajar en un ambiente similar, la pueden encontrar [aquí](https://github.com/grupo-de-estudio-ingenieria-de-datos/plantilla-codespaces)
 
