@@ -8,7 +8,6 @@ Nuestro objetivo es crear un espacio colaborativo donde los participantes puedan
 
 Este grupo tiene su origen en la comunidad de [Python en Español](https://hablemospython.dev/)
 
-[¿Cómo unirse a la discusión en Discord?](https://github.com/grupo-de-estudio-ingenieria-de-datos/.github/blob/main/discord/como-unirse-a-discord.md)
 
 ## ¿Qué ofrece este grupo de estudio?
 
@@ -16,6 +15,6 @@ Este grupo tiene su origen en la comunidad de [Python en Español](https://hable
 1. Material de estudio `TODO: Agregar el repositorio del material de estudio`
 1. Una plantilla con un Codespace para trabajar en un ambiente similar, la pueden encontrar [aquí](https://github.com/grupo-de-estudio-ingenieria-de-datos/plantilla-codespaces)
 
-Cualquier persona que quiera participar es bienvenida, nos puede encontrar en el canal de `#ingeniería-de-datos` dentro del [Discord de Python en Español](https://discord.gg/hablemospython)
+Cualquier persona que quiera participar es bienvenida, nos puede encontrar en el canal de `#ingeniería-de-datos` dentro del Discord de Python en Español: [¿Cómo unirse?](https://github.com/grupo-de-estudio-ingenieria-de-datos/.github/blob/main/discord/como-unirse-a-discord.md)
 
 ¡Bienvenidos y bienvenidas!
