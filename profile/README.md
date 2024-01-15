@@ -6,11 +6,11 @@ Este grupo de estudio está diseñado para reunir a hispanoablantes entusiasmado
 
 Nuestro objetivo es crear un espacio colaborativo donde los participantes puedan compartir conocimientos, resolver desafíos juntos y prepararse de manera efectiva para aprovechar al máximo el curso.
 
-Este grupo tiene sus inicios con la comunidad de [Python en Español](https://hablemospython.dev/)
+Este grupo tiene su origen en la comunidad de [Python en Español](https://hablemospython.dev/)
 
 ## ¿Qué ofrece este grupo de estudio?
 
-1. Reuniones semanales todos los viernes, esto para discutir, resolver dudas y apoyarnos con las tareas. Puedes ver el calendario y la estructura de las sesiones [aquí](../../sesiones-estudio.md)
+1. Reuniones semanales todos los viernes, esto para discutir, resolver dudas y apoyarnos con las tareas. Puedes ver el calendario y la estructura de las sesiones [aquí]([sesiones-estudio.md](https://github.com/grupo-de-estudio-ingenieria-de-datos/.github/blob/main/sesiones-estudio.md))
 1. Material de estudio `TODO: Agregar el repositorio del material de estudio`
 1. Una plantilla con un Codespace para trabajar en un ambiente similar, la pueden encontrar [aquí](https://github.com/grupo-de-estudio-ingenieria-de-datos/plantilla-codespaces)
 
