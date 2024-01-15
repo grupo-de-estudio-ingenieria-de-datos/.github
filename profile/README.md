@@ -1,8 +1,8 @@
 # Grupo de estudio del Data Engineering Zoomcamp 2024
 
-¡Bienvenidos y bienvenidas al Grupo de Estudio de Ingeniería para el Data Engineering 2024 Zoomcamp!
+¡Bienvenidos y bienvenidas al Grupo de Estudio para el Data Engineering 2024 Zoomcamp!
 
-Este grupo de estudio está diseñado para reunir a hispanoablantes que participarán en el Zoomcamp de Data Engineering en 2024.
+Este grupo de estudio está diseñado para reunir personas a hispanoablantes que sientan entusiasmo por la ingeniería de datos y que participarán en el Zoomcamp de Data Engineering en 2024.
 
 Nuestro objetivo es crear un espacio colaborativo donde las y los participantes puedan compartir conocimientos, resolver desafíos en conjunto y prepararse de manera efectiva para aprovechar al máximo el curso.
 
