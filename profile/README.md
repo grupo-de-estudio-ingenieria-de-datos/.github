@@ -8,6 +8,8 @@ Nuestro objetivo es crear un espacio colaborativo donde los participantes puedan
 
 Este grupo tiene su origen en la comunidad de [Python en Español](https://hablemospython.dev/)
 
+[¿Cómo unirse a la discusión en Discord?](https://github.com/grupo-de-estudio-ingenieria-de-datos/.github/blob/main/discord/como-unirse-a-discord.md)
+
 ## ¿Qué ofrece este grupo de estudio?
 
 1. Reuniones semanales todos los viernes, esto para discutir, resolver dudas y apoyarnos con las tareas. Puedes ver el calendario y la estructura de las sesiones [aquí](https://github.com/grupo-de-estudio-ingenieria-de-datos/.github/blob/main/sesiones-estudio.md)
